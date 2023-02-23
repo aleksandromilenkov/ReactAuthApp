@@ -1,7 +1,7 @@
 # React JS Application
 I created React App for learning React Authentication.  
 I'm using Firebase authentication and I'm storing the data in firebase database  
-I'm also using React Router
+I'm also using React Router  
 I implemented:  
 - User Sign Up  
 - User Login  
