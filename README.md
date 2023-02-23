@@ -11,5 +11,5 @@ I implemented:
 - Protecting routes and protecting frontend pages   
 - Storing the token in Local Storage  
 - I'm using useContext  
-- Adding auto-logout
+- Adding auto-logout  
 You can check the app here: https://reactauthentication-aleksandro.netlify.app/auth
