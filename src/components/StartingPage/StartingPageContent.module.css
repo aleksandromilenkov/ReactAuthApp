@@ -1,0 +1,13 @@
+.starting {
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.starting h1 {
+  font-size: 5rem;
+}
+
+@media screen and (max-width:500px){
+  .starting h1{
+    font-size: 3rem;
+  }}
