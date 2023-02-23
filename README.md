@@ -12,4 +12,4 @@ I implemented:
 - Storing the token in Local Storage  
 - I'm using useContext  
 - Adding auto-logout  
-You can check the app here: https://reactauthentication-aleksandro.netlify.app/auth
+You can check the app here: https://reactauthentication-aleksandro.netlify.app/
